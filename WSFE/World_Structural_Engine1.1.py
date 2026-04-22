@@ -1,5 +1,5 @@
 """
-World_Structural_Engine1.0.py
+World_Structural_Engine1.1.py
 
 World-level fortune layer built on top of the S-World dynamics pattern
 from WGL 3.32, fully decoupled from personal astro/bazi data, with an
