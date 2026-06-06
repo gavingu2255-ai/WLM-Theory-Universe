@@ -20,3 +20,16 @@ not fundamental separations in the underlying structure.
 
 Thus, *Wujie* is a **mathematical property of the generative topology**,  
 not a personal identifier.
+
+## Timestamp Note
+
+This note is left intentionally as a simple historical marker.
+
+The term **Wujie** (无界) in *Wujie Generation Stratum (WGS)* was named and defined here on  
+**2026‑06‑06 (AEST)**.
+
+It is recorded only to avoid future confusion or misattribution.  
+The name refers to the structural property **“boundary‑less / topologically continuous”**,  
+and **not** to any personal name.
+
+No further significance is attached to this timestamp.
